@@ -1,0 +1,136 @@
+.menu{
+    color:black;
+    font-size: x-large;
+    text-align: right;
+    padding:10px 10px 10px 10px;
+    background-color: greenyellow;
+    word-spacing: 5px;
+    transition: all 0.5s ease-out;
+    
+}
+a:hover,
+a:focus {
+  background-color: #fff;
+  color: #333;
+  padding: 2px;
+} 
+
+.hname{
+    font-size:xx-large;
+    text-align: center;
+    text-shadow: 2px 2px 2px black;
+    letter-spacing: 4px;
+}
+section{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    text-align: center;
+    margin:20px;
+    padding:20px;
+    word-spacing: 2px;
+    line-height: 20px;
+}
+.btn1{
+    background-color: white;
+    padding: 5px;
+    color:black;
+}
+footer{
+    text-align: center;
+    background-color:lightgray;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.benefits{
+    background-color: greenyellow;
+    text-align: left;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left:50px;
+    font-style: bold;
+    font-family:cursive;
+}
+.t3{
+    font-size: 80px;
+    color:greenyellow;
+    font-style: italic;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+.news{
+    background-color:yellow;
+    text-align: center;
+    box-shadow:inset;
+    padding: 20px;
+    font-family:cursive;
+}
+.contact1{
+    text-align: center;
+    font-size:xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 2px 2px 2px black;
+    letter-spacing: 4px;
+    font-family:cursive;
+
+}
+.form-control{
+    box-sizing: 500px;
+}
+.about1{
+    text-align: center;
+    font-size:xx-large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: 2px 2px 2px black;
+    letter-spacing: 4px;
+    font-family:cursive;
+}
+.about2{
+    padding-left: 550px;
+}
+.form-p1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    text-align: center;
+    margin:20px;
+    padding:10px 20px 50px 20px;
+    word-spacing: 2px;
+    line-height: 20px;
+    color: darkgreen;
+}
+.container{
+    width: 300px;
+    padding: 20px;
+    background-color:transparent;
+    margin-left: 550px;
+    padding:50px;
+    border: 0.1cm solid black;
+    margin-top: 10px;
+}
+#form-button{
+    margin-top: 10px;
+    padding:10px;
+    background-color: rgb(70, 213, 70);
+  
+} 
+.t1:hover{
+    width: 100px;
+    height: 100px;
+}
+.option{
+    text-align: center;
+}
+.grid-container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-row-gap: 40px;
+    grid-column-gap: 50px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+}
+
+
+    
+
+
+  
